@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mouhamedazizbennessir02@gmail.com / mohamedaziz.bennessir@etudiant-isi.utm.tn
 - ⚡ Fun fact: I'm addicted to increasing my booting speed (currently 18 secs also gentoo == no XD)
 - here are some stuff about me , looking forward to knowing more about you !
-my current work flow : 
-![](.config/the-neon-shallow/the-neon-shallow.png)
+- my current work flow : 
+- ![](https://imgur.com/7yZwmFE)
