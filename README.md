@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm addicted to increasing my booting speed (currently 18 secs also gentoo == no XD)
 - here are some stuff about me , looking forward to knowing more about you !
 - my current work flow : 
-- ![](https://imgur.com/7yZwmFE)
+- ![](https://imgur.com/undefined)
