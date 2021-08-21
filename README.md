@@ -1,26 +1,21 @@
-### Hi there 👋
+<h1> Hi There, I am Mohamed Aziz Ben Nessir . <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+</h1>
+<img src="https://cdn.discordapp.com/attachments/534056614819397652/878719157988917248/20210821_201558.gif">
 
-<!--
-**Zetsu-JackOfAllTrades/Zetsu-JackOfAllTrades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡️ Some stuff about me 
 
-Here are some ideas to get you started:
+👨‍💻 : I am Computer science and networking engineering student and a  self-taught Data Scientist from Tunisia.🇹🇳
 
-- 🔭 I’m currently working on my website / machine learning courses and small projects 
-- 🌱 I’m currently learning some machine learning course / fastapi / ....
-- 👯 I’m looking to collaborate on n machine learning projects 
-- 🤔 I’m looking for help with all the math i need to learn in order to become a good machine learning engineer , dm me any resources u think might help!
-- 💬 Ask me about any thing i might be able to help you with , I'm always glad to help (web dev /linux / machine learning / competitive programming / ...) 
-- 📫 How to reach me: mouhamedazizbennessir02@gmail.com
-- ⚡ Fun fact: i am addicted to increasing my booting speed (currently 18 secs also gentoo == no XD) 
--->Hi there ! my name is mohamed aziz ben nessir currently a 3rd year uni studen in HICS 
-- 🔭 I’m currently working on my website / small machine learning projects (for the sake of learning) 
-- 🌱 I’m currently learning machine learning (taking some courses)/ fastapi / ....
-- 👯 I’m looking to collaborate on machine learning projects and especially npl ones 
-- 🤔 I’m looking for help with all the math i need to learn in order to become a good machine learning engineer , dm me any resources u think might help!
-- 💬 Ask me about any thing i might be able to help you with , I'm always glad to help (web dev /linux / machine learning / competitive programming / ...) 
-- 🥅 I want to Contribute more to Open Source projects  
-- 📫 How to reach me: mouhamedazizbennessir02@gmail.com / mohamedaziz.bennessir@etudiant-isi.utm.tn
-- ⚡ Fun fact: I'm addicted to increasing my booting speed (currently 18 secs also gentoo == no )
-- here are some stuff about me , looking forward to knowing more about you !
-- my current workflow : 
+🤸‍♂️: I love exploring new tech stack and building cool stuffs.
+
+👨‍🔧 : I love problem solving and ricing/configuring my linux system this is my current workflow : 
 ![](https://i.imgur.com/LyDsmut.png)
+
+## 💌 How to reach me:
+👉 : mouhamedazizbennessir02@gmail.com
+
+👉 : mohamedaziz.bennessir@etudiant-isi.utm.tn
+
+## 🥳 social media :
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-ben-nessir-9b517820a/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mouhamedaziz.bennessir.3)
