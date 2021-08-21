@@ -8,7 +8,8 @@
 
 🤸‍♂️: I love exploring new tech stack and building cool stuffs.
 
-👨‍🔧 : I love problem solving and ricing/configuring my linux system this is my current workflow : 
+👨‍🔧 : I love problem solving and ricing/configuring my linux system this is my current workflow :
+
 ![](https://i.imgur.com/LyDsmut.png)
 
 ## 💌 How to reach me:
