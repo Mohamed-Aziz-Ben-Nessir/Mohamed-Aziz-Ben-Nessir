@@ -1,6 +1,6 @@
 <h1> Hi There, I am Mohamed Aziz Ben Nessir . <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 </h1>
-<img src="https://cdn.discordapp.com/attachments/534056614819397652/878719157988917248/20210821_201558.gif">
+<img src="https://i.imgur.com/wAw0WTa.gif">
 
 ## ⚡️ Some stuff about me 
 
