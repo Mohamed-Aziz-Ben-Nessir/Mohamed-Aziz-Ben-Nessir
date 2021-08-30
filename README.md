@@ -2,6 +2,10 @@
 </h1>
 <img src="https://i.imgur.com/wAw0WTa.gif">
 
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats-alessiodp.vercel.app/api?username=Mohamed-Aziz-Ben-Nessir&show_icons=true)
+
 ## ⚡️ Some stuff about me 
 
 👨‍💻 : I am Computer science and networking engineering student and a  self-taught Data Scientist from Tunisia.🇹🇳
