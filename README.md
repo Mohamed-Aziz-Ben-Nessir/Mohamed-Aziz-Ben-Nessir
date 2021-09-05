@@ -14,7 +14,7 @@
 
 👨‍🔧 : I love problem solving and ricing/configuring my linux system this is my current workflow :
 
-![](https://i.imgur.com/kS2IxMO.png)
+![](https://i.imgur.com/Ui9qtG4.png)
 
 ## 💌 How to reach me:
 👉 : mouhamedazizbennessir02@gmail.com
