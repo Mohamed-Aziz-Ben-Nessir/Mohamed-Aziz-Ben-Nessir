@@ -6,6 +6,8 @@
 
 ![Stats](https://github-readme-stats-alessiodp.vercel.app/api?username=Mohamed-Aziz-Ben-Nessir&show_icons=true)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Aziz-Ben-Nessir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## ⚡️ Some stuff about me 
 
 👨‍💻 : I am Computer science and networking engineering student and a  self-taught Data Scientist from Tunisia.🇹🇳
