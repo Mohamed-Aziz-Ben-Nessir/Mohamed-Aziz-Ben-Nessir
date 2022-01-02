@@ -24,7 +24,7 @@
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/neovim.png" width="65px"/>
-                <br /> Jupyter
+                <br /> Neovim
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/tensorflow.png" width="65px"/>
@@ -32,7 +32,7 @@
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/fish.png" width="65px"/>
-                <br /> Scikit Learn
+                <br /> Fish shell
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/fastapi.png" width="65px"/>
@@ -40,7 +40,7 @@
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/firefox.png" width="65px"/>
-                <br /> Docker
+                <br /> Firefox
             </td>
         </tr>
     </table>
