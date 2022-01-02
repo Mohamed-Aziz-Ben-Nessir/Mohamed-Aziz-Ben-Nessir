@@ -35,7 +35,7 @@
                 <br /> Fish shell
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/Archlinux.png" width="65px"/>
+                <img src="./assets/icons/archlinux.png" width="65px"/>
                 <br /> Arch-linux
             </td>
             <td align="center" width="140" height="112.43">
