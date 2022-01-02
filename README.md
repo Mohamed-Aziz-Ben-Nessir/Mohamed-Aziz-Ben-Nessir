@@ -2,15 +2,12 @@
 </h1>
 <img src="https://i.imgur.com/wAw0WTa.gif">
 
-### 📊 GitHub Stats
+# <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Aziz-Ben-Nessir&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" /></p><br><br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Aziz-Ben-Nessir&show_icons=true&locale=en&theme=dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
 
-![Stats](https://github-readme-stats-alessiodp.vercel.app/api?username=Mohamed-Aziz-Ben-Nessir&show_icons=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Aziz-Ben-Nessir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-👨‍🔧 : I love problem solving and ricing/configuring my linux system this is my current workflow :
-
+# <img src="https://i.imgur.com/qFa0SqO.gif" width="30px" alt="Git"/>&nbsp;<i><b>My current GNU/linux workflow</b></i></p> 
 ![](https://i.imgur.com/HazwPEU.png)
 
 
