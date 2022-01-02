@@ -23,7 +23,7 @@
                 <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/jupyter.png" width="65px"/>
+                <img src="./assets/icons/neovim.png" width="65px"/>
                 <br /> Jupyter
             </td>
             <td align="center" width="140" height="112.43">
@@ -31,7 +31,7 @@
                 <br /> TensorFlow
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/scikitlearn.png" width="65px"/>
+                <img src="./assets/icons/fish.png" width="65px"/>
                 <br /> Scikit Learn
             </td>
             <td align="center" width="140" height="112.43">
@@ -39,7 +39,7 @@
                 <br /> FastAPI
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/docker.png" width="65px"/>
+                <img src="./assets/icons/firefox.png" width="65px"/>
                 <br /> Docker
             </td>
         </tr>
