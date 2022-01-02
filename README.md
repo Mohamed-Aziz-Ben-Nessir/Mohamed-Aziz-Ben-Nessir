@@ -8,22 +8,45 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Aziz-Ben-Nessir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## ⚡️ Some stuff about me 
-
-👨‍💻 : I am Computer science and networking engineering student and a  self-taught Data Scientist from Tunisia.🇹🇳
-
-🤸‍♂️: I love exploring new tech stack and building cool stuffs.
 
 👨‍🔧 : I love problem solving and ricing/configuring my linux system this is my current workflow :
 
 ![](https://i.imgur.com/HazwPEU.png)
-![](https://i.imgur.com/MgDfNHF.png)
-![](https://i.imgur.com/gi6a7TP.png)
-## 💌 How to reach me:
-👉 : mouhamedazizbennessir02@gmail.com
 
-👉 : mohamedaziz.bennessir@etudiant-isi.utm.tn
 
-## 🥳 social media :
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-aziz-ben-nessir-9b517820a/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mouhamedaziz.bennessir.3)
+## ⚡  Technologies I use 
+
+<br>
+
+<div align="center">
+    <table align="center">
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/python.jpeg" width="65px"/>
+                <br /> Python
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/jupyter.png" width="65px"/>
+                <br /> Jupyter
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/tensorflow.png" width="65px"/>
+                <br /> TensorFlow
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/scikitlearn.png" width="65px"/>
+                <br /> Scikit Learn
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/fastapi.png" width="65px"/>
+                <br /> FastAPI
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assets/icons/docker.png" width="65px"/>
+                <br /> Docker
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br>
