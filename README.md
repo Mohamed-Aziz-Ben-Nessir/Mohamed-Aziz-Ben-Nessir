@@ -1,8 +1,8 @@
 <h1> Hi There, I am Mohamed Aziz Ben Nessir <img src="https://i.imgur.com/3ECGZ8g.gif" width="50px"></h1>
-</h1>
 <img src="https://i.imgur.com/wAw0WTa.gif">
-I'm a machine learning and opensource enthusiast, Hope you enjoy the stuff I make. <br>
-<p><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> 
+I'm a machine learning and opensource enthusiast, Hope you enjoy the stuff I make. 
+
+# <img src="https://i.imgur.com/x2ypR7A.gif" height="40px" width="30px" alt="Git"/>&nbsp;<i><b> Git </b></i></p> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Aziz-Ben-Nessir&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" /></p><br><br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Aziz-Ben-Nessir&show_icons=true&locale=en&theme=dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
@@ -11,8 +11,7 @@ I'm a machine learning and opensource enthusiast, Hope you enjoy the stuff I mak
 ![](https://i.imgur.com/HazwPEU.png)
 
 
-## ⚡  Technologies I use 
-
+# <img src="https://i.imgur.com/6dizEd8.gif" width="30px" alt="Git"/>&nbsp;<i><b> Preferences</b></i></p> 
 <br>
 
 <div align="center">
