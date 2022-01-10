@@ -7,8 +7,7 @@
 <br><br><br><br><br>
 
 # <img src="https://i.imgur.com/qFa0SqO.gif" width="30px" alt="Git"/>&nbsp;<i><b>My current GNU/linux workflow</b></i></p> 
-![](https://i.imgur.com/HazwPEU.png)
-
+![](https://i.imgur.com/l0vgSSo.gif)
 
 # <img src="https://i.imgur.com/6dizEd8.gif" width="30px" alt="Git"/>&nbsp;<i><b> Preferences</b></i></p> 
 <br>
