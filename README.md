@@ -6,10 +6,10 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Aziz-Ben-Nessir&show_icons=true&locale=en&theme=dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
-# <img src="https://i.imgur.com/ccmB2yt.gif" width="3px" alt="Git"/>&nbsp;<i><b>My current GNU/linux workflow</b></i></p> 
+# <img src="https://i.imgur.com/ccmB2yt.gif" width="30px" alt="Git"/>&nbsp;<i><b>My current GNU/linux workflow</b></i></p> 
 ![](https://i.imgur.com/l0vgSSo.gif)
 
-# <img src="https://i.imgur.com/ZnUbnZw.gif" width="3px" alt="Git"/>&nbsp;<i><b> Preferences</b></i></p> 
+# <img src="https://i.imgur.com/ZnUbnZw.gif" width="30px" alt="Git"/>&nbsp;<i><b> Preferences</b></i></p> 
 <br>
 
 <div align="center">
